@@ -17,5 +17,4 @@ import {ComponentsModule} from '../components/components.module';
     ClientEditComponent
   ]
 })
-export class ClientsModule {
-}
+export class ClientsModule {}
