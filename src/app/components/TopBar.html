@@ -1,0 +1,55 @@
+<div class="app-header navbar">
+  <!-- navbar header -->
+  <div class="navbar-header bg-primary">
+    <button class="pull-right visible-xs dk">
+      <i class="glyphicon glyphicon-cog"></i>
+    </button>
+    <button class="pull-right visible-xs">
+      <i class="glyphicon glyphicon-align-justify"></i>
+    </button>
+    <!-- brand -->
+    <a class="navbar-brand text-lt">
+      <i class="icon icon-globe"></i>
+      <span class="hidden-folded" style="margin-left:5px"></span>
+    </a>
+    <!-- / brand -->
+  </div>
+  <!-- / navbar header -->
+  <!-- navbar collapse -->
+  <div class="collapse pos-rlt navbar-collapse box-shadow bg-primary">
+    <ul class="nav navbar-nav navbar-right">
+      <!-- chat notifications -->
+      <!-- account menu bar -->
+      <li>
+        <div class="w-xxl" style="margin-top: 8px;">
+        </div>
+      </li>
+
+
+      <li dropdown>
+        <a class="dropdown-toggle" >
+          <i class="fa fa-user"></i>
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" role="menu" dropdown-menu>
+          <li>
+            <a ui-sref="app.account.edit" translate="Account Settings"></a>
+          </li>
+          <li ng-if="isAdmin">
+            <a ui-sref="app.account.add" translate="Add Account"></a>
+          </li>
+          <li ng-if="isAdmin">
+            <a ui-sref="app.account.list" translate="List Accounts"></a>
+          </li>
+          <li>
+            <a ui-sref="app.user.list" translate="Account Users"></a>
+          </li>
+          <li>
+            <a ui-sref="app.user.invite" translate="User Invite"></a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <!-- / navbar collapse -->
+</div>

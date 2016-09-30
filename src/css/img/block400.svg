@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   id="svg13691">
+  <defs
+     id="defs13693" />
+  <g
+     id="layer1">
+    <g
+       id="g2928"
+       transform="matrix(1,0,0,-1,5.2857083,4.505057)">
+      <path
+         d="m 0,0 48,0 c 0.553,0 1,-0.447 1,-1 l 0,-3 c 0,-0.553 -0.447,-1 -1,-1 L 0,-5 c -0.553,0 -1,0.447 -1,1 l 0,3 c 0,0.553 0.447,1 1,1"
+         style="fill:#85858b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2930" />
+    </g>
+    <g
+       id="g2932"
+       transform="matrix(1,0,0,-1,5.2857083,99.505057)">
+      <path
+         d="m 0,0 108,0 c 0.553,0 1,-0.447 1,-1 l 0,-3 c 0,-0.553 -0.447,-1 -1,-1 L 0,-5 c -0.553,0 -1,0.447 -1,1 l 0,3 c 0,0.553 0.447,1 1,1"
+         style="fill:#bab9bf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2934" />
+    </g>
+    <g
+       id="g2936"
+       transform="matrix(1,0,0,-1,6.2857083,19.505057)">
+      <path
+         d="m 0,0 106,0 c 1.104,0 2,-0.896 2,-2 l 0,-66.714 c 0,-1.104 -0.896,-2 -2,-2 l -106,0 c -1.104,0 -2,0.896 -2,2 L -2,-2 c 0,1.104 0.896,2 2,2"
+         style="fill:#c9c7c9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2938" />
+    </g>
+    <g
+       id="g2940"
+       transform="matrix(1,0,0,-1,26.722208,28.933757)">
+      <path
+         d="m 0,0 c 6.075,0 11,-4.925 11,-11 0,-6.075 -4.925,-11 -11,-11 -6.075,0 -11,4.925 -11,11 0,6.075 4.925,11 11,11"
+         style="fill:#99969d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2942" />
+    </g>
+    <g
+       id="g2944"
+       transform="matrix(1,0,0,-1,108.17441,85.798957)">
+      <path
+         d="m 0,0 c -0.2,1.001 -0.958,4.047 -1.171,4.736 -21.39,69.208 -41.606,29.487 -41.606,29.487 0,0 -12.223,-27.806 -25.973,-13.139 C -82.5,35.75 -95.282,5.959 -95.282,5.959 L -97.777,0 Z"
+         style="fill:#89898f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2946" />
+    </g>
+    <g
+       id="g2948"
+       transform="matrix(1,0,0,-1,5.2857083,109.50506)">
+      <path
+         d="m 0,0 108,0 c 0.553,0 1,-0.447 1,-1 l 0,-3 c 0,-0.553 -0.447,-1 -1,-1 L 0,-5 c -0.553,0 -1,0.447 -1,1 l 0,3 c 0,0.553 0.447,1 1,1"
+         style="fill:#bab9bf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2950" />
+    </g>
+  </g>
+</svg>

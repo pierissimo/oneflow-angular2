@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="oneflow" horiz-adv-x="1000" >
+<font-face font-family="oneflow" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="A" unicode="&#xe800;" d="m0-150l0 1000 100 0 0-900 900 0 0-100z" horiz-adv-x="1100" />
+<glyph glyph-name="B" unicode="&#xe801;" d="m0-150l1000 0 0 1000-100 0 0-900-900 0z" horiz-adv-x="1100" />
+<glyph glyph-name="E" unicode="&#xe802;" d="m0-150l0 1000 1000 0 0-100-900 0 0-900z" horiz-adv-x="1100" />
+<glyph glyph-name="D" unicode="&#xe803;" d="m0 850l1000 0 0-1000-100 0 0 900-900 0z" horiz-adv-x="1100" />
+<glyph glyph-name="E-1" unicode="&#xe804;" d="m0 850l1000 0 0-100-1000 0z" horiz-adv-x="1100" />
+<glyph glyph-name="F" unicode="&#xe805;" d="m0-150l0 1000 100 0 0-1000z" horiz-adv-x="1100" />
+<glyph glyph-name="G" unicode="&#xe806;" d="m900-150l0 1000 100 0 0-1000z" horiz-adv-x="1100" />
+<glyph glyph-name="H" unicode="&#xe807;" d="m0-150l0 100 1000 0 0-100z" horiz-adv-x="1100" />
+<glyph glyph-name="H-1" unicode="&#xe808;" d="m0 300l1000 0 0 100-1000 0z" horiz-adv-x="1100" />
+<glyph glyph-name="J" unicode="&#xe809;" d="m450-150l0 1000 100 0 0-1000z" horiz-adv-x="1100" />
+<glyph glyph-name="L" unicode="&#xe80a;" d="m0-150l1000 0 0 100-450 0 0 900-100 0 0-900-450 0z" horiz-adv-x="1100" />
+<glyph glyph-name="M" unicode="&#xe80b;" d="m0 850l1000 0 0-100-450 0 0-900-100 0 0 900-450 0z" horiz-adv-x="1100" />
+<glyph glyph-name="N" unicode="&#xe80c;" d="m0-150l0 1000 100 0 0-450 900 0 0-100-900 0 0-450z" horiz-adv-x="1100" />
+<glyph glyph-name="O" unicode="&#xe80d;" d="m1000-150l0 1000-100 0 0-450-900 0 0-100 900 0 0-450z" horiz-adv-x="1100" />
+</font>
+</defs>
+</svg>

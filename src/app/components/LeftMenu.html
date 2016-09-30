@@ -1,0 +1,36 @@
+<div class="app-aside hidden-xs bg-dark" ng-class="{ 'off-screen': $root.layout.mobileMenuOpened }">
+  <div class="aside-wrap">
+    <div class="navi-wrap">
+      <!-- main menu structure -->
+      <nav class="navi clearfix">
+        <!-- list -->
+        <ul class="nav">
+          <li><a routerLink="/clients">Client list</a></li>
+          <li><a routerLink="/clients/edit/">Client edit</a></li>
+          <!--<li><a href="">Link 2</a></li>-->
+          <!--<li ng-repeat="menuItem in menu track by $index" ng-click="itemClick(menuItem)"
+              ng-class="{ 'active': menuItem.active }">
+            <a ng-href="{{href(menuItem.sref)}}" target="{{menuItem.target || '_self'}}">
+              <b class="badge pull-right"
+                 ng-class="eventLoad.productionMenuColour"
+                 ng-show="eventLoad.showEventLoad && menuItem.name=='production' && eventLoad.productionMenuTotalCount>0">{{eventLoad.productionMenuTotalCount}}</b>
+              <i class="fa fa-{{menuItem.icon}} icon"></i>
+              <span class="font-bold" translate="{{menuItem.text | capitalize}}"></span>
+            </a>
+            <ul class="nav nav-sub dk">
+              <li ng-repeat="childItem in menuItem.children" ng-if="childItemVisible(childItem)">
+                <a ui-sref="{{childItem.sref}}" ng-click="itemClick(childItem, 'child')"
+                   target="{{childItem.target || '_self'}}">
+                  <b class="badge pull-right" ng-class="eventLoad[childItem.id].colour"
+                     ng-show="eventLoad.showEventLoad">{{eventLoad[childItem.id].totalCount}}</b>
+                  <i class="fa fa-{{childItem.icon}} icon"></i>
+                  <span translate="{{childItem.text | capitalize:true}}"></span>
+                </a>
+              </li>
+            </ul>
+          </li>-->
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
